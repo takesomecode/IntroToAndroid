@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hidden_activity_message">You\'ve made it to a secret activity.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hidden">HiddenActivity</string>
+
+</resources>
